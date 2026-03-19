@@ -14,7 +14,7 @@ Comprendre l’évolution d’une épidémie grâce à un modèle mathématique 
 Le programme simule l’évolution des populations S, I et R dans le temps.
 
 ## Résultats
-![Graphique](Graphique.png
+![Graphique](Graphique.png)
 Affichage graphique de l’évolution de l’épidémie.
 
 ## Auteur
